@@ -1,0 +1,1 @@
+Check all possible armor combinations in Elden Ring against some scoring function to determine which is best. For instance, you could use this to get the highest defense combination of armor, given what you have already acquired, that still allows you to fast roll.
